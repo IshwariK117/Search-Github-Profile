@@ -68,3 +68,12 @@ body {
   width: 100%;
 }
 
+.profile-box {
+  margin: auto;
+  padding: 4rem 2rem;
+  width: 90%;
+  max-width: 78rem;
+  box-shadow: 0 0 1rem rgba(0, 0, 0, 0.1);
+  transition: 0.5s ease-in;
+}
+
